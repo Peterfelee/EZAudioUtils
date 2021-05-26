@@ -1,0 +1,2 @@
+# EZAudioUtils
+基于EZAudio做个一个简单处理，便于制作为项目可使用的framework
