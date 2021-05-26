@@ -1,0 +1,6 @@
+framework module EZAudioUtils {
+  umbrella header "EZAudioUtils.h"
+
+  export *
+  module * { export * }
+}
